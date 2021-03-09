@@ -1,1 +1,1 @@
-# html-and-css-website
+# html-and-css course
